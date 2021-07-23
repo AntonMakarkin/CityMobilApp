@@ -1,0 +1,27 @@
+.input_wrapper {
+    display: flex;
+    margin-bottom: 16px;
+}
+
+.search_input {
+    width: 100%;
+    padding-left: 40px;
+    border: 1px solid #DEE5EB;
+    height: 42px;
+    background-repeat: no-repeat;
+    background-position: left 16px center;
+    background-image: url(../../Images/search.svg);
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.btn_search {
+    margin-left: 8px;
+    border: none;
+    width: 170px;
+    height: 46px;
+    background: #7B8395;
+    font-size: 14px;
+    font-weight: 500;
+    color: #FFF
+}

@@ -1,0 +1,26 @@
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 40px;
+    border-top: 1px solid #e5e5eb;
+    flex-shrink: 0;
+}
+
+footer p {
+    font-weight: 500;
+}
+
+a {
+    text-decoration: none;
+    color: #000
+}
+
+.contacts {
+    display: flex;
+    align-items: center;
+}
+
+.contacts > a {
+    margin-left: 40px;
+}

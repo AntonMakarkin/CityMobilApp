@@ -1,0 +1,11 @@
+header {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    border-bottom: 1px solid #e5e5eb;
+    flex-shrink: 0;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto
+}

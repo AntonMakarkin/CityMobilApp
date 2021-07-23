@@ -1,0 +1,14 @@
+.error_message {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    flex-grow: 1;
+}
+
+.error_text {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+}

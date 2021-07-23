@@ -1,0 +1,18 @@
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    padding-top: 29px;
+    width: 224px;
+    background: #7B8395;
+}
+
+.sidebar a {
+    padding: 16px;
+    color: #fff;
+    transition: background 0.2s ease;
+}
+
+.sidebar a:hover {
+    background: #E4E5E6;
+    color: #000;
+}
